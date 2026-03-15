@@ -58,4 +58,4 @@ Project focuses on:
 
 ## ⚡ Fun Fact
 
-I enjoy combining sports and technology. I also compete in USTA tennis tournaments and like exploring how data and analytics can improve athletic performance.
+I enjoy combining sports and technology. I also compete in tennis tournaments and like exploring how data and analytics can improve athletic performance.
