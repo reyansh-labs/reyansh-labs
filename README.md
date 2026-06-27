@@ -47,7 +47,7 @@ Engineering and programming a self-driving robot capable of navigating a 10 × 1
 ### Robotics
 
 * Self-Driving Vehicle (SDV) Engineering Program
-* STRIPE International Robotics Competition
+* STRIPE Robotics Competition
 
 ### Mathematics & Computer Science
 
