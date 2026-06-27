@@ -1,65 +1,113 @@
-# Hi, I'm Reyansh 👋
+# Hi there! 👋 I'm Reyansh
 
-Grade 8 Student | Carnage Middle School, Raleigh  
-Interested in Robotics, Artificial Intelligence, and Engineering
+🎓 **Grade 8 Student** | Carnage Middle School | Raleigh, North Carolina
 
----
+I'm passionate about **robotics, engineering, artificial intelligence, mathematics, and programming**. I enjoy building projects that solve real-world problems and learning how technology works behind the scenes.
 
-## About Me
-
-I enjoy building technology projects that combine math, programming, and real-world problem solving. I am currently learning Python, robotics engineering, and autonomous systems.
-
-I like exploring how machines can sense their environment and make intelligent decisions, similar to real self-driving vehicles.
+My GitHub is where I document my STEM journey—from robotics and autonomous navigation to coding, engineering design, and future AI projects.
 
 ---
 
-## Current Projects
+## 🚀 Featured Project
 
-### Autonomous Robot Navigation
-Engineering and programming a self-driving robot capable of navigating a 10×10 ft challenge mat using time-of-flight and camera sensors.
+### 🚗 Autonomous Navigation System
 
-Project focuses on:
-- Obstacle detection
-- Environment sensing
-- Path planning algorithms
-- CAD design and 3D printing
+Engineering and programming a self-driving robot capable of navigating a 10 × 10 ft challenge mat autonomously using Time-of-Flight sensors and a camera.
 
----
+**Highlights**
 
-## STEM Interests
+* Python Programming
+* Autonomous Navigation
+* Robotics
+* Sensor Integration
+* CAD Design (OnShape)
+* 3D Printing
+* Engineering Design Process
 
-- Artificial Intelligence
-- Robotics
-- Autonomous Vehicles
-- Data Science
-- Algorithm Design
+🔗 Repository:
+`autonomous-navigation-system`
 
 ---
 
-## Activities
+## 🔬 STEM Interests
 
-- Self-Driving Vehicle Robotics Program
-- STRIPE Robotics Competition
-- Python Programming
-- AMC 8 Math Competition
-- USACO Programming Contest
-- FBLA Business Ethics Competition (State Qualifier)
-- Community Service - Marbles Teen Play Corps
-- USTA Tennis
-- Big NC Tennis Club
-- Swim Team
+* 🤖 Robotics
+* 🧠 Artificial Intelligence
+* 💻 Python Programming
+* 📐 Mathematics
+* ⚙️ Engineering Design
+* 🚘 Autonomous Systems
+* 🖨️ 3D Printing
+* 📊 Problem Solving
 
 ---
 
-## Currently Learning
+## 🏆 Competitions & Activities
 
-- Python Programming
-- Robotics Algorithms
-- Sensor Calibration
-- Autonomous Navigation Systems
+### Robotics
+
+* Self-Driving Vehicle (SDV) Engineering Program
+* STRIPE International Robotics Competition
+
+### Mathematics & Computer Science
+
+* AMC 8
+* NC State Math Contest
+* USACO Bronze
+
+### Leadership
+
+* FBLA Business Ethics State Qualifier
+
+### Community Service
+
+* Marbles Kids Museum – Teen Play Corps Volunteer
+
+### Athletics
+
+* Big NC Tennis Team
+* USTA Tennis Tournaments
+* Preparing for Competitive Swim Team
 
 ---
 
-## ⚡ Fun Fact
+## 🌱 Currently Learning
 
-I enjoy combining sports and technology. I also compete in tennis tournaments and like exploring how data and analytics can improve athletic performance.
+I'm currently learning about:
+
+* Autonomous Robotics
+* Computer Vision
+* Artificial Intelligence
+* Engineering Design
+* CAD Modeling
+* Sensor Technologies
+* Python Programming
+
+---
+
+## 🎯 Goals
+
+My goal is to continue building projects that combine engineering, programming, and creativity to solve real-world problems.
+
+I hope to explore careers in robotics, artificial intelligence, and engineering while continuing to participate in STEM competitions and collaborative projects.
+
+---
+
+## 📂 Repositories
+
+🚗 Autonomous Navigation System
+
+*(More projects coming soon!)*
+
+* Future City
+* Science Olympiad
+* AI Projects
+* Python Algorithms
+
+---
+
+## 📫 Thanks for Visiting!
+
+Thank you for visiting my GitHub profile!
+
+I'm always excited to learn new things, build new projects, and continue growing as a young engineer.
