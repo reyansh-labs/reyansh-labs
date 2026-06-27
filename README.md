@@ -39,11 +39,15 @@ Project focuses on:
 ## Activities
 
 - Self-Driving Vehicle Robotics Program
-- STRIPE International Robotics Competition
+- STRIPE Robotics Competition
 - Python Programming
 - AMC 8 Math Competition
 - USACO Programming Contest
-- FBLA Business Ethics Competition
+- FBLA Business Ethics Competition (State Qualifier)
+- Community Service - Marbles Teen Play Corps
+- USTA Tennis
+- Big NC Tennis Club
+- Swim Team
 
 ---
 
