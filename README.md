@@ -1,6 +1,6 @@
 # Hi, I'm Reyansh 👋
 
-Grade 7 Student | Carnage Middle School, Raleigh  
+Grade 8 Student | Carnage Middle School, Raleigh  
 Interested in Robotics, Artificial Intelligence, and Engineering
 
 ---
