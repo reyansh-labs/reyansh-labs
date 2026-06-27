@@ -100,7 +100,6 @@ I hope to explore careers in robotics, artificial intelligence, and engineering 
 *(More projects coming soon!)*
 
 * Future City
-* Science Olympiad
 * AI Projects
 * Python Algorithms
 
