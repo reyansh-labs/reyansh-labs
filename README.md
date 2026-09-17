@@ -1,112 +1,75 @@
-# Hi there! 👋 I'm Reyansh
+# Hi, I'm Reyansh 👋
 
-🎓 **Grade 8 Student** | Carnage Middle School | Raleigh, North Carolina
+I'm a middle-school student interested in **robotics, engineering, artificial intelligence, mathematics, and programming**. I use GitHub to document what I build, test, and learn.
 
-I'm passionate about **robotics, engineering, artificial intelligence, mathematics, and programming**. I enjoy building projects that solve real-world problems and learning how technology works behind the scenes.
+## Current learning portfolios
 
-My GitHub is where I document my STEM journey—from robotics and autonomous navigation to coding, engineering design, and future AI projects.
+### Autonomous Robot Navigation
 
----
+In my Self-Driving Vehicle engineering program, I am learning how robots move, sense their surroundings, and make navigation decisions.
 
-## 🚀 Featured Project
+My current repository documents a **timed Ackermann-drive motion prototype**, a chassis CAD model, and an engineering journal. The broader program also explores Time-of-Flight sensors, cameras, mapping, and path planning.
 
-### 🚗 Autonomous Navigation System
+### NC State STEM Learning Journal
 
-Engineering and programming a self-driving robot capable of navigating a 10 × 10 ft challenge mat autonomously using Time-of-Flight sensors and a camera.
+I documented a five-day NC State MSEN Summer Scholars experience that connected AI, biotechnology, genetics, environmental science, biomanufacturing, rocket physics, and conservation.
 
-**Highlights**
+The featured engineering project is a water rocket that reached a measured height of **77 feet**.
 
-* Python Programming
-* Autonomous Navigation
-* Robotics
-* Sensor Integration
-* CAD Design (OnShape)
-* 3D Printing
-* Engineering Design Process
+### Cybersecurity
 
-🔗 Repository:
-`autonomous-navigation-system`
+I am participating in NC State's 2026–27 [SecureIT Cybersecurity Workshops](https://s3c2.org/education-outreach/#secure-it-cybersecurity-workshops). The series covers topics including the cyber triad, cryptography, Linux, Capture the Flag, privacy, social-media literacy, and AI-generated information.
 
----
+> Some project repositories are private while I complete their documentation and privacy review. I will add public project links only when they are ready to share.
 
-## 🔬 STEM Interests
+## STEM interests
 
-* 🤖 Robotics
-* 🧠 Artificial Intelligence
-* 💻 Python Programming
-* 📐 Mathematics
-* ⚙️ Engineering Design
-* 🚘 Autonomous Systems
-* 🖨️ 3D Printing
-* 📊 Problem Solving
+- Robotics and autonomous systems
+- Artificial intelligence and computer vision
+- Python programming
+- Mathematics and algorithms
+- CAD modeling and 3D printing
+- Cybersecurity
+- Engineering design and problem-solving
 
----
+## Activities and experience
 
-## 🏆 Competitions & Activities
+### Robotics and engineering
 
-### Robotics
+- Self-Driving Vehicle engineering program
+- RTP SDV League — Ride Rush participant
+- CAD design and 3D printing
 
-* Self-Driving Vehicle (SDV) Engineering Program
-* STRIPE Robotics Competition
+### Mathematics and computer science
 
-### Mathematics & Computer Science
+- AMC 8
+- NC State Math Contest
+- USACO Bronze problem-solving
 
-* AMC 8
-* NC State Math Contest
-* USACO Bronze
+### Leadership and service
 
-### Leadership
-
-* FBLA Business Ethics State Qualifier
-
-### Community Service
-
-* Marbles Kids Museum – Teen Play Corps Volunteer
+- FBLA Business Ethics regional winner and state qualifier
+- Marbles Teen Play Corps volunteer
 
 ### Athletics
 
-* Big NC Tennis Team
-* USTA Tennis Tournaments
-* Preparing for Competitive Swim Team
+- Team tennis
+- USTA junior tournaments
+- Swim preparation
 
----
+## How I document projects
 
-## 🌱 Currently Learning
+I try to:
 
-I'm currently learning about:
+- Explain my individual contribution clearly
+- Separate completed work from future goals
+- Credit starter code, libraries, and team contributions
+- Use authentic measurements and evidence
+- Protect other students' privacy
+- Reflect on what worked, what did not work, and what I would improve
 
-* Autonomous Robotics
-* Computer Vision
-* Artificial Intelligence
-* Engineering Design
-* CAD Modeling
-* Sensor Technologies
-* Python Programming
+## Goals
 
----
+I want to keep building projects that combine engineering, programming, and creativity to solve real-world problems. I am especially interested in robotics, artificial intelligence, autonomous systems, cybersecurity, and space-related engineering.
 
-## 🎯 Goals
-
-My goal is to continue building projects that combine engineering, programming, and creativity to solve real-world problems.
-
-I hope to explore careers in robotics, artificial intelligence, and engineering while continuing to participate in STEM competitions and collaborative projects.
-
----
-
-## 📂 Repositories
-
-🚗 Autonomous Navigation System
-
-*(More projects coming soon!)*
-
-* Future City
-* AI Projects
-* Python Algorithms
-
----
-
-## 📫 Thanks for Visiting!
-
-Thank you for visiting my GitHub profile!
-
-I'm always excited to learn new things, build new projects, and continue growing as a young engineer.
+Thanks for visiting my GitHub profile!
