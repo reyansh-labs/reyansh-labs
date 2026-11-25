@@ -9,7 +9,7 @@ I'm an eighth-grade student who enjoys robotics, math, and programming. I like p
 - **Water rocket:** At NC State's MSEN Summer Scholars program, I built a water rocket with fins and a balancing weight. My final launch was recorded at **77 feet**.
 - **Robotics:** I previously worked on a self-driving vehicle project at Zebra Robotics using Python, CAD, and 3D printing. My shared code shows an early stage using timed movement commands.
 - **NASA TechRise:** Three classmates and I submitted **StratoHorizon**, a proposal to compare horizon pictures with motion-sensor readings to measure a balloon payload's tilt. We are waiting for selection results.
-- **ORISE STEM Cities:** I submitted **RoboRoute City** to the competition.
+- **ORISE STEM Cities:** I submitted **RoboRoute City**, a future-city robot concept that considers energy, time, and cost. [Read about my idea](https://github.com/reyansh-labs/student-portfolio/blob/main/projects/roboroute-city.md).
 
 ## What I'm learning now
 
@@ -30,4 +30,4 @@ I use GitHub to organize code and project notes, explain my contribution, and tr
 
 My public portfolio shares selected summaries. My working repositories and personal evidence stay private.
 
-*Updated November 7, 2026.*
+*Updated November 25, 2026.*
