@@ -20,7 +20,7 @@ I have completed two **NC State SecureIT cybersecurity workshops** and plan to c
 ## Beyond STEM
 
 - **FBLA:** I won regional middle-school Business Ethics in seventh grade and attended the North Carolina State Leadership Conference. This year, I serve as a **Program of Work Committee Co-Chair** and am preparing for Exploring Management and Entrepreneurship with a partner.
-- **Service:** I have completed **26 volunteer hours**: 24 at Marbles Kids Museum and 2 at BugFest at the North Carolina Museum of Natural Sciences.
+- **Service:** I have completed **26 hours and 33 minutes of volunteering**: 24 hours and 33 minutes at Marbles Kids Museum and 2 at BugFest at the North Carolina Museum of Natural Sciences.
 - **Tennis:** I play USTA junior tournaments. Tennis helps me stay focused after mistakes.
 - **Math and coding:** I have participated in AMC 8 and the NC State Math Contest and explored USACO Bronze problems.
 
@@ -30,4 +30,4 @@ I use GitHub to organize code and project notes, explain my contribution, and tr
 
 My public portfolio shares selected summaries. My working repositories and personal evidence stay private.
 
-*Updated November 25, 2026.*
+*Updated November 26, 2026.*
